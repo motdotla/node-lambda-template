@@ -1,6 +1,8 @@
 # node-lambda-example
 
-Example of using [node-lambda](https://github.com/rebelmail/node-lambda) to run and deploy your node.js Amazon Lambda applications.
+![node-lambda-example](../master/node-lambda-example.png?raw=true)
+
+Example of using [node-lambda](https://github.com/rebelmail/node-lambda) to locally run and deploy your node.js [Amazon Lambda](http://aws.amazon.com/lambda/) applications.
 
 ## Usage
 
@@ -19,7 +21,7 @@ Example of using [node-lambda](https://github.com/rebelmail/node-lambda) to run 
 ## Install
 
 ```
-git clone
+git clone https://github.com/RebelMail/node-lambda-example.git
 cd node-lambda-example
 npm install
 ```

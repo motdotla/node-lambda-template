@@ -1,8 +1,10 @@
-# node-lambda-example
+# node-lambda-template
 
-![node-lambda-example](../master/node-lambda-example.png?raw=true)
+![node-lambda-template](../master/node-lambda-template.png?raw=true)
 
-Example of using [node-lambda](https://github.com/rebelmail/node-lambda) to locally run and deploy your node.js [Amazon Lambda](http://aws.amazon.com/lambda/) applications.
+The bare minimum for a node.js app running on [Amazon Lambda](http://aws.amazon.com/lambda/).
+
+It uses [node-lambda](https://github.com/rebelmail/node-lambda) under the hood to locally run and also deploy your node.js Amazon Lambda application.
 
 ## Usage
 
@@ -21,8 +23,8 @@ Example of using [node-lambda](https://github.com/rebelmail/node-lambda) to loca
 ## Install
 
 ```
-git clone https://github.com/RebelMail/node-lambda-example.git
-cd node-lambda-example
+git clone https://github.com/RebelMail/node-lambda-template.git
+cd node-lambda-template
 npm install
 ```
 

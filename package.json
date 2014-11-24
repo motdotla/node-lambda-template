@@ -1,0 +1,19 @@
+{
+  "name": "node-lambda-example",
+  "version": "0.0.1",
+  "description": "Command line tool for locally running and remotely deploying your node.js applications to Amazon Lambda.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rebelmail/node-lambda-example.git"
+  },
+  "author": "motdotla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebelmail/node-lambda-example/issues"
+  },
+  "homepage": "https://github.com/rebelmail/node-lambda-example",
+  "dependencies": {
+    "node-lambda": "0.1.4"
+  }
+}

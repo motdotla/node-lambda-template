@@ -6,17 +6,17 @@ The bare minimum for a node.js app running on [Amazon Lambda](http://aws.amazon.
 
 It uses [node-lambda](https://github.com/rebelmail/node-lambda) under the hood to locally run and also deploy your node.js Amazon Lambda application.
 
-## Usage
-
-### Running locally
-
 ```
 ./node_modules/.bin/node-lambda run
 ```
 
-### Deploying to Amazon Lambda
+## Usage
+
+There are 3 available commands.
 
 ```
+./node_modules/.bin/node-lambda setup
+./node_modules/.bin/node-lambda run
 ./node_modules/.bin/node-lambda deploy
 ```
 

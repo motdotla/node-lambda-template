@@ -15,5 +15,10 @@
   "homepage": "https://github.com/rebelmail/node-lambda-template",
   "dependencies": {
     "node-lambda": "0.1.5"
+  },
+  "scripts": {
+    "setup": "node-lambda setup",
+    "run": "node-lambda run",
+    "deploy": "node-lambda deploy"
   }
 }

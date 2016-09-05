@@ -31,7 +31,10 @@ node_modules
 # Users Environment Variables
 .lock-wscript
 
-
+# Lambda related files
 .env
+context.json
+deploy.env
 event.json
+
 .DS_Store

@@ -13,8 +13,9 @@
     "url": "https://github.com/rebelmail/node-lambda-template/issues"
   },
   "homepage": "https://github.com/rebelmail/node-lambda-template",
-  "dependencies": {
-    "node-lambda": "0.1.5"
+  "dependencies": {},
+  "devDependencies": {
+    "node-lambda": "0.8.8"
   },
   "scripts": {
     "setup": "node-lambda setup",

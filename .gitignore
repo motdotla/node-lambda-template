@@ -33,5 +33,6 @@ node_modules
 
 
 .env
+deploy.env
 event.json
 .DS_Store

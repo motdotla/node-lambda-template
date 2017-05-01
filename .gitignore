@@ -35,4 +35,5 @@ node_modules
 .env
 deploy.env
 event.json
+event_sources.json
 .DS_Store

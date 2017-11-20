@@ -1,3 +1,7 @@
+[![Donate](http://www.opensourcecitizen.org/badge)](http://www.opensourcecitizen.org/project?url=github.com/motdotla/node-lambda-template)
+
+If you found this library useful, donate some CPU cycles to this project by clicking above. Thank you! 😇
+
 # node-lambda-template
 
 ![node-lambda-template](../master/node-lambda-template.png?raw=true)
